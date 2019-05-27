@@ -1,0 +1,2 @@
+# iamrich
+Flutter basic app
